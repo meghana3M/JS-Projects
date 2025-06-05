@@ -1,5 +1,3 @@
-Here i am going to post all the projects done by me from scratch
-
 1-Digital Clock
 
 2-Calculator
